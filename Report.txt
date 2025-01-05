@@ -1,0 +1,14 @@
+Application initialized successfully.
+Processing Customer: Dave Jackson | Parcel ID: X316 | Fee: $33.50
+Customer removed: Dave Jackson | Parcel ID: X316
+New customer added: Jay Patel | Parcel ID: X123
+New parcel added: X123
+Customer removed: Ann Jones | Parcel ID: X064
+Application Logs:
+Application initialized successfully.
+Processing Customer: Dave Jackson | Parcel ID: X316 | Fee: $33.50
+Customer removed: Dave Jackson | Parcel ID: X316
+New customer added: Jay Patel | Parcel ID: X123
+New parcel added: X123
+Customer removed: Ann Jones | Parcel ID: X064
+
